@@ -7,6 +7,11 @@ import java.util.Date;
 import java.util.Iterator;
 import java.util.List;
 
+/**
+ * @author Ram Alapure
+ * 
+ */
+
 public class CancelledPeriodCalculator {
 
 	public static void main(String[] args) throws ParseException {

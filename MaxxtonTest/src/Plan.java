@@ -1,5 +1,10 @@
 import java.util.Date;
 
+/**
+ * @author Ram Alapure
+ * 
+ */
+
 public class Plan {
 
 	private Long id;
